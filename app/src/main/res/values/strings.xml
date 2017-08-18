@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bottom Navigation</string>
+    <string name="item_1">Search</string>
+    <string name="item_2">Lists</string>
+    <string name="item_3">History</string>
+    <string name="item_4">User Profile</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>
